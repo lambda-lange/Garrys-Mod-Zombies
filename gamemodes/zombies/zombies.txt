@@ -1,0 +1,8 @@
+"zombies"
+{
+	"base"		"base"
+	"title"		"Zombies"
+	"category"	"pvp"
+	"maps"		"^z_"
+	"menusystem"	"1"
+}
