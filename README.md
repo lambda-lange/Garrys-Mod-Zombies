@@ -10,6 +10,7 @@ Players earn XP and money through gameplay, which they can spend on new weapons 
 
 ## Important
 src/addons/leadbot https://github.com/LeadKiller/leadbot
+- Server/Client Community Workshop Content https://steamcommunity.com/sharedfiles/filedetails/?id=3253562920
 
 ## For Developers
 - There is no documentation available for this project.
